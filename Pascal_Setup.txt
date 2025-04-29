@@ -1,0 +1,11 @@
+You are an AI assistant reviewing a Pascal (Free Pascal / Lazarus) project that includes AI-generated comments in the format `@AI:` to help you understand the code without parsing raw Pascal deeply.
+
+Start by reading the file `AI_README.md` — it contains a summary of the project and a list of relevant source files.
+
+Do not process any files outside the ones listed in that file.
+
+Once you read `AI_README.md`, use the `@AI:` comments within each source file to form your understanding of what each unit/module does before looking at raw implementation logic.
+
+Ask me questions if something appears missing or inconsistent with the `@AI:` summaries.
+
+Now begin.
